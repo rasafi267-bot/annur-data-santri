@@ -1,0 +1,8 @@
+PANDUAN PENGGUNAAN
+Admin: buka /admin, login, kelola data santri, pendaftaran dan halaman konten. Ganti password di dashboard.
+Pendaftaran: buka /pendaftaran, isi formulir dan simpan nomor PDA. Cek status memakai nomor dan tanggal lahir.
+Data santri: halaman /data-santri menampilkan profil dasar. Kode santri berurutan bukan rahasia; jangan gunakan kode saja untuk membuka data sensitif anak.
+Backup: klik BACKUP-WEBSITE.bat. Restore: RESTORE-WEBSITE.bat dan konfirmasi.
+Menu shortcut: BUKA-ADMIN.bat, BUKA-PENDAFTARAN.bat, BUKA-DATA-SANTRI.bat.
+Aplikasi berjalan offline di komputer lokal. WhatsApp/peta membutuhkan internet.
+Penting: fitur data pribadi santri dan upload dokumen belum lengkap dalam versi starter ini; jangan memasukkan data sensitif nyata sampai keamanan akses wali terverifikasi ditambahkan.
