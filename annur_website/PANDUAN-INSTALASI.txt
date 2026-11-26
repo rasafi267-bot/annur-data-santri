@@ -1,0 +1,7 @@
+PANDUAN INSTALASI — ANNUR KALIBARU
+1. Ekstrak ZIP ke folder yang mudah ditemukan.
+2. Pastikan Windows memiliki Python 3.10+ (python.org; centang Add Python to PATH).
+3. Klik dua kali INSTALL-APLIKASI.bat dan tunggu hingga selesai.
+4. Password awal admin ditulis ke ADMIN-AWAL.txt saat pertama kali dibuat. Simpan dan segera ubah.
+5. Klik START-WEBSITE.bat untuk menjalankan. Browser diarahkan ke localhost:8000.
+6. Untuk berhenti: Ctrl+C di jendela server.
